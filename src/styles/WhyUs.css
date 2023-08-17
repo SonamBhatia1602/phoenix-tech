@@ -1,0 +1,127 @@
+.why-choose-us-section {
+    padding: 30px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px; /* Adjust spacing as needed */
+  }
+
+  .ul-row-text{
+    margin-top: 15px;
+  }
+  .column {
+    flex: 1;
+    padding: 15px; /* Adjust spacing as needed */
+  }
+  .header-highlight {
+    font-weight: bold;
+    color:#456b4f;
+  }
+  .clip-path-image {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);; /* Creates a triangle shape */
+    overflow: hidden;
+    max-width: 50%;
+    position: relative;
+  }
+  .clip-path-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 40px 10px 80px 20px;
+  }
+
+  .column.bullet-points ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .column.bullet-points li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .column.image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+  }
+  
+  .grid-item {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-block img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .container h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .row-text{
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .center-button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .consultation-button {
+    padding: 10px 20px;
+    font-size: 25px;
+    background-color: #42826c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .consultation-button:hover {
+    background-color:#2a5d4a; /* Adjust the hover color as needed */
+  }

@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Rest of your CSS styles */
+  
+  .hero-section {
+    background-color: #42826c;
+    color: white;
+    padding: 80px 20px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .text-content {
+    margin-right: 20px;
+  }
+  
+  .hero-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  

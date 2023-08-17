@@ -1,0 +1,39 @@
+/* Navbar.css */
+.navbar {
+  background-color: white; /* Light gray background */
+  margin: 0; /* Remove default margin */
+  padding: 0px 0; /* Add padding at the top and bottom */
+}
+
+.container {
+  margin: 0 10px; /* Add margin at both sides */
+}
+
+.navbar-brand {
+  margin-right: 20px; /* Add spacing to the right of the logo */
+}
+
+.navbar-nav .nav-item {
+  margin-right: 25px; /* Add spacing between each menu item */
+}
+
+/* Custom styles for "Let's Talk" button */
+.btn-success {
+  padding: 8px 16px; /* Adjust padding as needed */
+  border-radius: 4px; /* Add rounded corners */
+  background-color: #42826c; /* Set the background color to #42826c */
+  color: #fff; /* White text color */
+}
+
+.btn-success:hover {
+  background-color: #2a5d46; /* Darker green on hover */
+}
+
+/* Highlight Navbar links on hover */
+.nav-item .nav-link:hover {
+  background-color: #f0f0f0; /* Light gray background on hover */
+  border-radius: 4px; /* Add rounded corners on hover */
+  color: #42826c; /* Change text color on hover */
+  font-weight: bold;
+  font-size: large;
+}
