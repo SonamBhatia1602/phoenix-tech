@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/phoenix-tech/static/css/main.5f12dc42.css",
+    "main.js": "/phoenix-tech/static/js/main.dd6af19e.js",
+    "static/media/effect1.png": "/phoenix-tech/static/media/effect1.5ace8372283f2d08af5c.png",
+    "static/media/slick.svg": "/phoenix-tech/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/phoenix-tech/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/phoenix-tech/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/phoenix-tech/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/phoenix-tech/index.html",
+    "main.5f12dc42.css.map": "/phoenix-tech/static/css/main.5f12dc42.css.map",
+    "main.dd6af19e.js.map": "/phoenix-tech/static/js/main.dd6af19e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f12dc42.css",
+    "static/js/main.dd6af19e.js"
+  ]
+}
